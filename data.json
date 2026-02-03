@@ -1,0 +1,57 @@
+{
+  "name": "We-Renoc",
+  "id1": "Wevelgem",
+  "id2": "L619625689",
+  "slug": "We-Renoc",
+  "url": "https://www.goudengids.be/bedrijf/Wevelgem/L619625689/We-Renoc/",
+  "email": "We-renoc@outlook.be",
+  "phone": "+32471473563",
+  "internationalPhone": "+32471473563",
+  "address": "De Linde 37",
+  "postalCode": "8560",
+  "city": "Moorsele (Wevelgem)",
+  "vatNumber": "BE101408570",
+  "foundingDate": "2024-10-01",
+  "employeeCount": "0 of onbekend",
+  "companyStatus": "Actieve dossier",
+  "kboUrl": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=1014085708",
+  "categories": [
+    "Dakwerkers",
+    "Wevelgem"
+  ],
+  "openingHours": {
+    "monday": "8:00 - 18:00",
+    "tuesday": "8:00 - 18:00",
+    "wednesday": "8:00 - 18:00",
+    "thursday": "8:00 - 18:00",
+    "friday": "8:00 - 18:00",
+    "saturday": "8:00 - 16:00",
+    "sunday": "Gesloten"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/We-renoc",
+    "instagram": "https://www.instagram.com/Werenoc"
+  },
+  "headerImage": "https://adserver.fcrmedia.com/www/images/43086a0c7888beb78a8318d1aaf89a65.png",
+  "galleryImages": [
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/466/062/466062586_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/464/153/464153179_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228051_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/747/460747963_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/229/434229275_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/360/460360252_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/724/457724344_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/725/457725169_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/455/940/455940448_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/145/434145170_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228011_coverimage.webp"
+  ],
+  "searchKeyword": "dakwerkers",
+  "scrapedAt": "2026-01-18T19:35:05.686Z",
+  "region": "flanders",
+  "preferredLanguage": "dutch",
+  "referenceUrl": "https://www.goudengids.be/bedrijf/Wevelgem/L619625689/We-Renoc/",
+  "templateId": "G",
+  "seed": 1299630619,
+  "generatedAt": "2026-01-24T21:50:15.529Z"
+}
